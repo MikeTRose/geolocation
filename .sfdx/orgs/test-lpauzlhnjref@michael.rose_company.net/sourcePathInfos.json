@@ -6,10 +6,10 @@
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1517974924933,
-            "changeTime": 1517974924933,
-            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "size": 128,
+            "modifiedTime": 1518021507257,
+            "changeTime": 1518021507257,
+            "contentHash": "51d86f3b64a3d9a0048d192f02147b0e9e9594e4",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -21,10 +21,10 @@
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 96,
-            "modifiedTime": 1517974924933,
-            "changeTime": 1517974924933,
-            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "size": 128,
+            "modifiedTime": 1518021507255,
+            "changeTime": 1518021507255,
+            "contentHash": "ae41ed56706e4439a34cda97ac997d7988935c2f",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -36,10 +36,10 @@
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1517975844994,
-            "changeTime": 1517975844994,
-            "contentHash": "df722e829b7a6a7630651123b390ed6a8e0a809a"
+            "size": 320,
+            "modifiedTime": 1518021902984,
+            "changeTime": 1518021902984,
+            "contentHash": "f4d98222d02da8a8bd4bf8c651b6c4b721916c86"
         }
     ],
     [
@@ -49,10 +49,10 @@
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 64,
-            "modifiedTime": 1517974924933,
-            "changeTime": 1517974924933,
-            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "size": 128,
+            "modifiedTime": 1518021723267,
+            "changeTime": 1518021723267,
+            "contentHash": "8254dac2f5256c6b3492239c93b3f2d7d93ec5a8",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -60,159 +60,466 @@
     [
         "/Users/michael.rose/SFDX/geolocation",
         {
-            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation",
             "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1518021501931,
+            "changeTime": 1518021501931,
+            "contentHash": "a5aa907c1244253c553002cdfad71fed3eb07d69",
             "isMetadataFile": false,
-            "size": 256,
-            "modifiedTime": 1517975086936,
-            "changeTime": 1517975086936,
-            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
-            "isWorkspace": true,
-            "isArtifactRoot": false
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects/Account/fields/Location__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 403,
             "modifiedTime": 1517975844964,
             "changeTime": 1517975844964,
-            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596"
+            "contentHash": "6b6949a234f89bf80a2a4bac6f7d790775dbd596",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1517975844976,
             "changeTime": 1517975844976,
-            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7"
+            "contentHash": "e85a88e4c79b0e49351c7fe72875a0a96c157ce7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1517975844984,
             "changeTime": 1517975844984,
-            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d"
+            "contentHash": "0ac2903745d3402a3279ba45b246c5286914d16d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9708,
             "modifiedTime": 1517975844990,
             "changeTime": 1517975844990,
-            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77"
+            "contentHash": "a6fc0c32caef3a798eea4f544a2000fc429aeb77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 9756,
             "modifiedTime": 1517975844993,
             "changeTime": 1517975844993,
-            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e"
+            "contentHash": "94142c6ea19df359d8f2398924816a5498afc02e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/permissionsets/Geolocation.permissionset-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 366,
             "modifiedTime": 1517975844995,
             "changeTime": 1517975844995,
-            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915"
+            "contentHash": "22561a9d689e7899abdd423d8b7cfcab331df915",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects/Account/fields",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects/Account/fields",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1517975844964,
             "changeTime": 1517975844964,
-            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc"
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects/Account",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects/Account",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1517975844963,
             "changeTime": 1517975844963,
-            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/objects",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1517975844963,
             "changeTime": 1517975844963,
-            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/layouts",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1517975844993,
             "changeTime": 1517975844993,
-            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ],
     [
         "/Users/michael.rose/SFDX/geolocation/force-app/main/default/permissionsets",
         {
-            "state": "u",
+            "state": "n",
             "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/permissionsets",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1517975844995,
             "changeTime": 1517975844995,
-            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba"
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1518021271518,
+            "changeTime": 1518021271518,
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/classes/AccountController.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/classes/AccountController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 88,
+            "modifiedTime": 1518021271516,
+            "changeTime": 1518021271516,
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/classes/AccountController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 195,
+            "modifiedTime": 1518021271518,
+            "changeTime": 1518021271518,
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1518021606047,
+            "changeTime": 1518021606047,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1518021606046,
+            "changeTime": 1518021606046,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 155,
+            "modifiedTime": 1518021737624,
+            "changeTime": 1518021737624,
+            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1518021606043,
+            "changeTime": 1518021606043,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 114,
+            "modifiedTime": 1518021752113,
+            "changeTime": 1518021752113,
+            "contentHash": "afdd78ed2864ac252024d82a836b21bdc7ccb67a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1518021606047,
+            "changeTime": 1518021606047,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1518021606046,
+            "changeTime": 1518021606046,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1518021606043,
+            "changeTime": 1518021606043,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1518021606044,
+            "changeTime": 1518021606044,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/aura/AccountLocator/AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1518021606045,
+            "changeTime": 1518021606045,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/tabs/Account_Locator.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 267,
+            "modifiedTime": 1518021902980,
+            "changeTime": 1518021902980,
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4457,
+            "modifiedTime": 1518021902985,
+            "changeTime": 1518021902985,
+            "contentHash": "b07203be5b54f0b386be1f56467864b68e67c390"
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4797,
+            "modifiedTime": 1518021902988,
+            "changeTime": 1518021902988,
+            "contentHash": "8cf9ff9aa4943adae1d59512fb0d4ca8b2dcfbf9"
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4461,
+            "modifiedTime": 1518021902992,
+            "changeTime": 1518021902992,
+            "contentHash": "73ad8397e6863de42f0fd812a59698623ba7af38"
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17142,
+            "modifiedTime": 1518021903005,
+            "changeTime": 1518021903005,
+            "contentHash": "1b19f77b701bcc419030905bb142e2d48c6eab14"
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1518021902980,
+            "changeTime": 1518021902980,
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+        }
+    ],
+    [
+        "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/michael.rose/SFDX/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1518021903005,
+            "changeTime": 1518021903005,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
